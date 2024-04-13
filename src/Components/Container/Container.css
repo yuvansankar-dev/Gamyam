@@ -1,0 +1,17 @@
+.loading {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+.containerStyle{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap:16px;
+    margin: 16px;
+    justify-content: center;
+}
+.header{
+    text-align: center;
+    margin: 10px;
+}

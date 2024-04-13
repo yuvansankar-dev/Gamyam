@@ -1,0 +1,27 @@
+.carousel {
+    height: 250px;
+    display: flex;
+    align-items: center
+}
+
+img {
+    height: 250px;
+    object-fit: cover;
+}
+
+.infinite-scroll-component {
+    overflow: hidden !important;
+}
+
+.iconParent {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: white;
+}
+.iconParent span{
+    color: black;
+    font-size: 24px;
+    opacity: 0.5;
+    font-weight: bold;
+}
